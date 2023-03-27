@@ -1,6 +1,6 @@
 # wedlecMusic
 
-это прилоение о музые.нажмите на композицию и будет краствое меню о ней)
+это приложение о музые.нажмите на композицию и будет краствое меню о ней)
 
 <p align="center">
       <img src="https://github.com/Wedlec129/wedlecMusic/blob/main/1.png" width="726">
